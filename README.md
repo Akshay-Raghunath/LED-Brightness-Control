@@ -6,4 +6,4 @@ Steps involved
 1) Simulink model is created with blocks representing the LED , Potentiometer , PID Controller and other components.
 2) Configuring PID Controller with appropriate parameter Kp, Ki, Kd for controlling LED Brightness.
 3) Run Simulations and fine tune PID parameters
-4) Simulink model may be deployed to hardware 
+4) Simulink model may be deployed to hardware such as arduino or any other microcontroller.
